@@ -86,7 +86,7 @@ GUI, 향수 소개, 입출력 기능, 로직 설계
 ![image](https://user-images.githubusercontent.com/67991236/105117699-49c23200-5b10-11eb-8789-17fc2b9fbf3d.png)
 
 
-**사용자 이름 입력받아 출력**
+**사용자 이름 입력받아 결과페이지에 출력**
 
 ![image](https://user-images.githubusercontent.com/67991236/105118027-e97fc000-5b10-11eb-867d-c2804bbaaf96.png)
 ![image](https://user-images.githubusercontent.com/67991236/105118030-ebe21a00-5b10-11eb-8e7e-0428f04f6150.png)
@@ -115,8 +115,3 @@ IDE : Eclipse
 
 O/S : Windows 10
 
-# 8. 프로젝트 참여 소감
-
- 첫번째로 참여한 프로젝트였기때문에 
-
-# 9. 별첨
