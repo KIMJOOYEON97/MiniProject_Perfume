@@ -14,6 +14,8 @@ Today To ME, **오나나**
 
 ![image](https://user-images.githubusercontent.com/67991236/105116990-1337e780-5b0f-11eb-89f4-28a46ac0e9c5.png)
 ![image](https://user-images.githubusercontent.com/67991236/105117014-1df27c80-5b0f-11eb-89cd-52df2272a060.png)
+![image](https://user-images.githubusercontent.com/67991236/105117088-40849580-5b0f-11eb-903e-622064d02172.png)
+
 
 
 # 2. 프로젝트 요구사항
