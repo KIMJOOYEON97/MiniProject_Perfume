@@ -115,3 +115,6 @@ IDE : Eclipse
 
 O/S : Windows 10
 
+# 8. 유튜브 영상(Youtube)
+
+https://www.youtube.com/watch?v=FPsM4SsTk2g
