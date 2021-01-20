@@ -68,27 +68,20 @@ GUI, 향수 소개, 입출력 기능, 로직 설계
 ![image](https://user-images.githubusercontent.com/67991236/105117014-1df27c80-5b0f-11eb-89cd-52df2272a060.png)
 ![image](https://user-images.githubusercontent.com/67991236/105117088-40849580-5b0f-11eb-903e-622064d02172.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf97b91d-54d1-4971-b602-59d911143ad9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf97b91d-54d1-4971-b602-59d911143ad9/Untitled.png)
+![image](https://user-images.githubusercontent.com/67991236/105117642-2c8d6380-5b10-11eb-82aa-8e41d0996e50.png)
+![image](https://user-images.githubusercontent.com/67991236/105117643-2e572700-5b10-11eb-821d-6f4b66d38372.png)
+![image](https://user-images.githubusercontent.com/67991236/105117645-31521780-5b10-11eb-973e-e81bf55a1f62.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e941fb0-0f0e-4f38-9585-571f69489f0a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e941fb0-0f0e-4f38-9585-571f69489f0a/Untitled.png)
+![image](https://user-images.githubusercontent.com/67991236/105117666-39aa5280-5b10-11eb-9c2b-90df498adda5.png)
+![image](https://user-images.githubusercontent.com/67991236/105117672-3c0cac80-5b10-11eb-8817-c35e85910f30.png)
+![image](https://user-images.githubusercontent.com/67991236/105117676-3e6f0680-5b10-11eb-85a7-5f7f576a152f.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f2a966-5b09-4725-9661-5915c5a40b14/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f2a966-5b09-4725-9661-5915c5a40b14/Untitled.png)
+![image](https://user-images.githubusercontent.com/67991236/105117688-4333ba80-5b10-11eb-8774-15c8e5e3f31e.png)
+![image](https://user-images.githubusercontent.com/67991236/105117696-475fd800-5b10-11eb-87e1-0ac85fc15a50.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd3adef9-77ba-44bc-a830-20767a3d87b7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd3adef9-77ba-44bc-a830-20767a3d87b7/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d25f3a3-4136-4a9d-85e1-97ba6592206c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d25f3a3-4136-4a9d-85e1-97ba6592206c/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ae8722a-7fc5-4f74-955d-a0375f18e9cd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ae8722a-7fc5-4f74-955d-a0375f18e9cd/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3df7dc17-6db3-4b0d-99cb-bf5a15316969/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3df7dc17-6db3-4b0d-99cb-bf5a15316969/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/101d9ddf-24b1-4446-be88-4cc6871301d3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/101d9ddf-24b1-4446-be88-4cc6871301d3/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84d119c6-e95a-4a90-8bb2-8a3958e896b1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84d119c6-e95a-4a90-8bb2-8a3958e896b1/Untitled.png)
 
 **gif파일 Gui에서 구현**
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1df86f5-c199-4be7-8b92-fdf72cc571a3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1df86f5-c199-4be7-8b92-fdf72cc571a3/Untitled.png)
+![image](https://user-images.githubusercontent.com/67991236/105117699-49c23200-5b10-11eb-8789-17fc2b9fbf3d.png)
 
 # 6. 구현기간
 
