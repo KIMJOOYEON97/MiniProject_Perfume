@@ -10,14 +10,16 @@ Today To ME, **오나나**
 당신의 상황과 취향에 맞는 향수를 통해 만족스러운 나날을 보내세요.
 
 
+![슬라이드1](https://user-images.githubusercontent.com/67991236/105117331-aa04a400-5b0f-11eb-9b20-560cbcb017e4.JPG)
 
-![image](https://user-images.githubusercontent.com/67991236/105117088-40849580-5b0f-11eb-903e-622064d02172.png)
 
 
 
 
 
 # 2. 프로젝트 요구사항
+
+![슬라이드2](https://user-images.githubusercontent.com/67991236/105117348-aec95800-5b0f-11eb-9b36-78109ffdaf83.JPG)
 
 - **취향에 맞는 흔하지 않은 향수를 소개**
 - **여러 질문들을 통한 결론 도출 (점수 합계 계산)**
@@ -49,6 +51,9 @@ GUI, 향수 소개, 입출력 기능, 로직 설계
 
 1. 어떤 상황이나 어떤 성향인가에 따른 질문 세분화
 2. 질문의 분류화를 통한 개인의 특성을 점수화하여 결론 도출
+
+
+![슬라이드4](https://user-images.githubusercontent.com/67991236/105117378-ba1c8380-5b0f-11eb-9530-e8eddbc6baf1.JPG)
 
 # 5. 핵심 구현 기술
 
