@@ -8,7 +8,12 @@ Today To ME, **오나나**
 뭔가 허전함을 느낄 때. 오늘 나는 나에게 부족한 2%를 채워줄 향수를 추천해드립니다.
 
 당신의 상황과 취향에 맞는 향수를 통해 만족스러운 나날을 보내세요.
-![image](https://user-images.githubusercontent.com/67991236/105116291-c99acd00-5b0d-11eb-9773-189c7a96adec.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/67991236/105116990-1337e780-5b0f-11eb-89f4-28a46ac0e9c5.png)
+![image](https://user-images.githubusercontent.com/67991236/105117014-1df27c80-5b0f-11eb-89cd-52df2272a060.png)
 
 
 # 2. 프로젝트 요구사항
