@@ -11,10 +11,9 @@ Today To ME, **오나나**
 
 
 
-
-![image](https://user-images.githubusercontent.com/67991236/105116990-1337e780-5b0f-11eb-89f4-28a46ac0e9c5.png)
-![image](https://user-images.githubusercontent.com/67991236/105117014-1df27c80-5b0f-11eb-89cd-52df2272a060.png)
 ![image](https://user-images.githubusercontent.com/67991236/105117088-40849580-5b0f-11eb-903e-622064d02172.png)
+
+
 
 
 
@@ -60,7 +59,9 @@ GUI, 향수 소개, 입출력 기능, 로직 설계
 3. 질문 5번 &6번 : 개성적인 부분에 대해 질문을 합니다. 자신의 개성이 얼마나 강한지에 따라 도전적인 향수를 택할 수 있느냐 없는냐를 알아봄.
 4. 질문 7번 &8번 :  평소에 추구하는 온도에 대해 알아보고 그 온도에 따라 따뜻한 느낌의 향수를 추천할 것인지, 차가운 느낌의 향수를 추천할 것인지 결정.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f99e6ef3-240b-4a04-974d-e325aedd4dd5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f99e6ef3-240b-4a04-974d-e325aedd4dd5/Untitled.png)
+![image](https://user-images.githubusercontent.com/67991236/105116990-1337e780-5b0f-11eb-89f4-28a46ac0e9c5.png)
+![image](https://user-images.githubusercontent.com/67991236/105117014-1df27c80-5b0f-11eb-89cd-52df2272a060.png)
+![image](https://user-images.githubusercontent.com/67991236/105117088-40849580-5b0f-11eb-903e-622064d02172.png)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf97b91d-54d1-4971-b602-59d911143ad9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf97b91d-54d1-4971-b602-59d911143ad9/Untitled.png)
 
