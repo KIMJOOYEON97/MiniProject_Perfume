@@ -81,6 +81,8 @@ GUI, 향수 소개, 입출력 기능, 로직 설계
 
 
 **gif파일 Gui에서 구현**
+
+
 ![image](https://user-images.githubusercontent.com/67991236/105117699-49c23200-5b10-11eb-8789-17fc2b9fbf3d.png)
 
 # 6. 구현기간
